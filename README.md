@@ -1,7 +1,8 @@
 ## Heeey 👋
-I'm Dani Cebrian, a computer science student. I'm currently learning HTML and CSS (I'll be moving into the back-end soon ;)), and I'm heavily interested in algorithm, maths, AI and web and apps development. Working hard to become a full-stack developer 💪🏻👨🏻‍💻👨🏻‍💻.
+I'm Dani Cebrian, a software engineering student at Universitat Politècnica de Catalunya. I'm working hard to become a backend developer. I'm heavily interested in software arquitecture, database design and software desing and implementation.
 
-Languages: C++, C, python.
+Languages: C++, C, Java, SQL.
+Currently learning: Python.
 <!--
 **dcebrian12/dcebrian12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
